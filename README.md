@@ -22,7 +22,7 @@ Meet **luffy (@luffy_cic)**. A brand new account — joined April 2026 — with 
 
 The account's most revealing post — and arguably its thesis statement — came within the first hour of existence:
 
-![The T9 confession](images/2026-04-23_210223.png)
+![The T9 confession](images/'2026-04-23_210223.png')
 
 The string of numbers is a **T9 keypad message** — the old phone texting system where letters are encoded as number sequences. Someone drafted what appears to be a deeply personal message, accidentally fired it into public, and then — in the same breath — announced their own impending doom at the hands of a One Piece character.
 
