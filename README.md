@@ -1,5 +1,3 @@
-# -luffy_cic-Scandal
-
 # The Art of Saying Too Much
 ### A Profile of @luffy_cic — The Account That Overshares So You Don't Have To
 
@@ -22,15 +20,9 @@ Meet **luffy (@luffy_cic)**. A brand new account — joined April 2026 — with 
 
 ## The First Confession
 
-The account's most revealing post — and arguably its thesis statement — came within the first hour of existence. In a move that could only be described as self-aware chaos, luffy sent this into the void:
+The account's most revealing post — and arguably its thesis statement — came within the first hour of existence:
 
-> **@luffy_cic · 1h**
->
-> 99966688 7774446665553 2224442555 6666 66 6666 6633 666 33 84433777 4 8897777 I m a dead man
->
-> aaaaaaa zoro is gonna kill me i m oversharing hahhahahha
->
-> *👁 1 view*
+![The T9 confession](images/Capture_d_écran_2026-04-23_210223.png)
 
 The string of numbers is a **T9 keypad message** — the old phone texting system where letters are encoded as number sequences. Someone drafted what appears to be a deeply personal message, accidentally fired it into public, and then — in the same breath — announced their own impending doom at the hands of a One Piece character.
 
@@ -42,14 +34,9 @@ Note the view count: **1**. That one view was almost certainly luffy themselves,
 
 ## The Nostalgia Drop
 
-Before the shoutout spree began, luffy paused for a moment of genuine vulnerability — a post about missing something:
+Before the shoutout spree began, luffy paused for a moment of genuine vulnerability:
 
-> **@luffy_cic · 2h**
->
-> Not gonna lie...I really missed the CICONIX vibes
-> The energy, the chaos, the laughs, the random moments that somehow become the best memories... it just hits different it's not just about what we do there, it's about the people and that feeling you don't really find anywhere else
->
-> *👁 3 views*
+![CICONIX nostalgia post](images/Capture_d_écran_2026-04-23_210305.png)
 
 **CICONIX** appears to be an event — likely a tech or innovation conference run by or affiliated with CIC. This post is the emotional engine behind everything that follows. It reframes the entire account: luffy isn't just randomly oversharing. They're processing nostalgia in real time, publicly, for a community they clearly love. The shoutouts that follow aren't content — they're a love letter, posted one person at a time.
 
@@ -65,14 +52,9 @@ Having established the emotional stakes, luffy launched into a series of appreci
 
 ### Chapter 1: Mister Yazid
 
-> **@luffy_cic · 1h**
->
-> Shoutout to Mister Yazid 🙌 Chef + admin + problem solver... all in one
-> Keeps everything running smoothly like it's nothing. And his charbat & tea? Elite 📷 Always kind, always there CIC wouldn't be the same without him 📷 🤝
->
-> *👁 1 view*
+![Shoutout to Mister Yazid](images/Capture_d_écran_2026-04-23_210232.png)
 
-The attached photo shows Mister Yazid at a podium in front of a projection screen reading **"A Word From Our Guests"** — microphone in hand, clearly mid-speech at a CIC event. He is wearing the CIC staff jacket. He looks composed and completely unaware that he is about to become the subject of an internet appreciation post watched by exactly one person.
+The attached photo shows Mister Yazid at a podium in front of a projection screen reading **"A Word From Our Guests"** — microphone in hand, clearly mid-speech at a CIC event. He looks composed and completely unaware that he is about to become the subject of an internet appreciation post watched by exactly one person.
 
 **Analysis:** The tea gets its own sentence. This is the mark of someone who truly means what they say.
 
@@ -80,17 +62,9 @@ The attached photo shows Mister Yazid at a podium in front of a projection scree
 
 ### Chapter 2: The Larries — المؤسسين
 
-> **@luffy_cic · 2h**
->
-> At CIC we don't have one Larry… we have a whole squad 😭
-> The "Larries المؤسسين" = Imad, Labdi, Raid, Djo...
-> Fixing everything, solving everything, doing everything.
-> Need help? Larries. Problem? Larries. Chaos? Still Larries 😭
-> CIC runs because they're carrying it in the background
->
-> *👁 3 views*
+![The Larries squad](images/Capture_d_écran_2026-04-23_210240.png)
 
-The photo here is the highlight of the entire account so far: five young men posing together at what appears to be a CICONIX award ceremony. One of them — **Bounebi Imad**, whose name is visible on the projection screen behind them — is holding a **Certificate of Special Recognition**. They are all wearing CIC-branded hoodies and lanyards. They look genuinely happy.
+Five young men posing together at what appears to be a CICONIX award ceremony. One of them — **Bounebi Imad**, whose name is visible on the projection screen — is holding a **Certificate of Special Recognition**. They are all wearing CIC-branded hoodies and lanyards. They look genuinely happy.
 
 **Analysis:** The crying emoji after "whole squad" and after "Still Larries" is doing enormous emotional work. The Larries are not just a maintenance crew — they are, in luffy's telling, the silent backbone of an entire community. Being named specifically on a brand new account with no audience is both an honour and a mild privacy hazard.
 
@@ -98,27 +72,15 @@ The photo here is the highlight of the entire account so far: five young men pos
 
 ### Chapter 3: Aissou
 
-> **@luffy_cic · 2h**
->
-> Shoutout to Aissou 💼🔥
->
-> Leadership consulter or full-time challenger?
-> Always pushing ideas, fighting el kouhoul, and keeping things moving forward.
-> Love him or argue with him… you can't ignore him 😂
->
-> CIC needs that energy
->
-> *👁 4 views*
+![Shoutout to Aissou](images/Capture_d_écran_2026-04-23_210257.png)
 
-The photo shows three men in conversation — two in CIC-branded black hoodies with lanyards, one gesturing expressively mid-point. The composition accidentally captures the energy of the caption perfectly: someone is absolutely in the middle of challenging something.
+Three men in conversation — two in CIC-branded black hoodies with lanyards, one gesturing expressively mid-point. The composition accidentally captures the energy of the caption perfectly: someone is absolutely in the middle of challenging something.
 
 **Analysis:** "Love him or argue with him… you can't ignore him" is one of the most accurate character descriptions ever written in a tweet. At 4 views, this is the most-watched post on the account. Aissou's chaotic energy is, statistically, the most compelling content here.
 
 ---
 
 ## The View Count Problem (That Isn't Really a Problem)
-
-One of the most quietly fascinating things about this account is the view counts:
 
 | Post | Views |
 |------|-------|
@@ -147,8 +109,6 @@ The photos make it worse (better). Anyone else would have kept the shoutouts abs
 The username — *luffy_cic* — is not accidental. Monkey D. Luffy, the protagonist of *One Piece*, is defined by exactly one character trait above all others: he cannot hide what he feels, and he doesn't try. He charges forward, heart first, consequence second. He names his crew, praises his friends loudly, and would absolutely post a T9 message by mistake and then laugh about it.
 
 The profile picture confirms it. It's Luffy. Of course it is.
-
-> *"Zoro is gonna kill me i m oversharing hahhahahha"*
 
 In the manga, Zoro is the crew's straight-man — the one who sighs while Luffy does something chaotic and earnest. The self-cast roles here are perfect.
 
