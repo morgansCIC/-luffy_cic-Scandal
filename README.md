@@ -22,7 +22,7 @@ Meet **luffy (@luffy_cic)**. A brand new account — joined April 2026 — with 
 
 The account's most revealing post — and arguably its thesis statement — came within the first hour of existence:
 
-![The T9 confession](./images/Capture_d_écran_2026-04-23_210223.png)
+![The T9 confession](images/2026-04-23_210223.png)
 
 The string of numbers is a **T9 keypad message** — the old phone texting system where letters are encoded as number sequences. Someone drafted what appears to be a deeply personal message, accidentally fired it into public, and then — in the same breath — announced their own impending doom at the hands of a One Piece character.
 
@@ -36,7 +36,7 @@ Note the view count: **1**. That one view was almost certainly luffy themselves,
 
 Before the shoutout spree began, luffy paused for a moment of genuine vulnerability:
 
-![CICONIX nostalgia post](images/Capture_d_écran_2026-04-23_210305.png)
+![CICONIX nostalgia post](images/2026-04-23_210305.png)
 
 **CICONIX** appears to be an event — likely a tech or innovation conference run by or affiliated with CIC. This post is the emotional engine behind everything that follows. It reframes the entire account: luffy isn't just randomly oversharing. They're processing nostalgia in real time, publicly, for a community they clearly love. The shoutouts that follow aren't content — they're a love letter, posted one person at a time.
 
@@ -52,7 +52,7 @@ Having established the emotional stakes, luffy launched into a series of appreci
 
 ### Chapter 1: Mister Yazid
 
-![Shoutout to Mister Yazid](images/Capture_d_écran_2026-04-23_210232.png)
+![Shoutout to Mister Yazid](images/2026-04-23_210232.png)
 
 The attached photo shows Mister Yazid at a podium in front of a projection screen reading **"A Word From Our Guests"** — microphone in hand, clearly mid-speech at a CIC event. He looks composed and completely unaware that he is about to become the subject of an internet appreciation post watched by exactly one person.
 
@@ -62,7 +62,7 @@ The attached photo shows Mister Yazid at a podium in front of a projection scree
 
 ### Chapter 2: The Larries — المؤسسين
 
-![The Larries squad](images/Capture_d_écran_2026-04-23_210240.png)
+![The Larries squad](images/2026-04-23_210240.png)
 
 Five young men posing together at what appears to be a CICONIX award ceremony. One of them — **Bounebi Imad**, whose name is visible on the projection screen — is holding a **Certificate of Special Recognition**. They are all wearing CIC-branded hoodies and lanyards. They look genuinely happy.
 
@@ -72,7 +72,7 @@ Five young men posing together at what appears to be a CICONIX award ceremony. O
 
 ### Chapter 3: Aissou
 
-![Shoutout to Aissou](images/Capture_d_écran_2026-04-23_210257.png)
+![Shoutout to Aissou](images/2026-04-23_210257.png)
 
 Three men in conversation — two in CIC-branded black hoodies with lanyards, one gesturing expressively mid-point. The composition accidentally captures the energy of the caption perfectly: someone is absolutely in the middle of challenging something.
 
