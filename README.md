@@ -1,7 +1,7 @@
 # The Art of Saying Too Much
 ### A Profile of @luffy_cic — The Account That Overshares So You Don't Have To
 
-*Internet Culture · X / Twitter · April 2026 · CIC, Oran*
+*Internet Culture · X / Twitter · April 2026 · CIC*
 
 ---
 
