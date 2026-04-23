@@ -20,15 +20,10 @@ Meet **luffy (@luffy_cic)**. A brand new account — joined April 2026 — with 
 
 ## The First Confession
 
-The account's most revealing post — and arguably its thesis statement — came within the first hour of existence:
+The account's most revealing post — and arguably its thesis statement came within the first hour of existence (dar karitha ):
 
 ![The T9 confession](images/2026-04-23210223.png)
 
-The string of numbers is a **T9 keypad message** — the old phone texting system where letters are encoded as number sequences. Someone drafted what appears to be a deeply personal message, accidentally fired it into public, and then — in the same breath — announced their own impending doom at the hands of a One Piece character.
-
-Note the view count: **1**. That one view was almost certainly luffy themselves, staring at their own post in horror.
-
-> *"I'm oversharing hahahaha" — posted publicly, to no followers, on an account that is literally one hour old. The self-awareness is real. The stopping is not.*
 
 ---
 
@@ -38,15 +33,15 @@ Before the shoutout spree began, luffy paused for a moment of genuine vulnerabil
 
 ![CICONIX nostalgia post](images/2026-04-23210305.png)
 
-**CICONIX** appears to be an event — likely a tech or innovation conference run by or affiliated with CIC. This post is the emotional engine behind everything that follows. It reframes the entire account: luffy isn't just randomly oversharing. They're processing nostalgia in real time, publicly, for a community they clearly love. The shoutouts that follow aren't content — they're a love letter, posted one person at a time.
+**CICONIX** appears to be an event likely a tech hackathone run by or affiliated with CIC. This post is the emotional engine behind everything that follows. It reframes the entire account: luffy isn't just randomly oversharing. They're processing nostalgia in real time, publicly, for a community they clearly love. The shoutouts that follow aren't content they're a love letter, posted one person at a time.
 
-Three views on this one. The audience is growing. Slowly.
+Three views on this one. The audience is growing. Slowly(but i ve catched that )
 
 ---
 
 ## The Shoutout Machine
 
-Having established the emotional stakes, luffy launched into a series of appreciation posts — each one accompanied by actual photos, which escalates the oversharing from "diary entry" to "unauthorized documentary."
+Having established the emotional stakes, luffy launched into a series of appreciation posts each one accompanied by actual photos, which escalates the oversharing from "diary entry" to "unauthorized documentary."
 
 ---
 
@@ -60,13 +55,13 @@ The attached photo shows Mister Yazid at a podium in front of a projection scree
 
 ---
 
-### Chapter 2: The Larries — المؤسسين
+### Chapter 2: The Larries المؤسسين
 
 ![The Larries squad](images/2026-04-23210240.png)
 
-Five young men posing together at what appears to be a CICONIX award ceremony. One of them — **Bounebi Imad**, whose name is visible on the projection screen — is holding a **Certificate of Special Recognition**. They are all wearing CIC-branded hoodies and lanyards. They look genuinely happy.
+Five posing together at what appears to be a CICONIX award ceremony. One of them **Bounebi Imad**, whose name is visible on the projection screen is holding a **Certificate of Special Recognition**. They are all wearing CIC hoodies and lanyards. They look genuinely happy.
 
-**Analysis:** The crying emoji after "whole squad" and after "Still Larries" is doing enormous emotional work. The Larries are not just a maintenance crew — they are, in luffy's telling, the silent backbone of an entire community. Being named specifically on a brand new account with no audience is both an honour and a mild privacy hazard.
+**Analysis:** The crying emoji after "whole squad" and after "Still Larries" is doing enormous emotional work. The Larries are not just a maintenance crew they are, in luffy's telling, the silent backbone of an entire community. Being named specifically on a brand new account with no audience is both an honour and a mild privacy hazard.
 
 ---
 
@@ -74,7 +69,7 @@ Five young men posing together at what appears to be a CICONIX award ceremony. O
 
 ![Shoutout to Aissou](images/2026-04-23210257.png)
 
-Three men in conversation — two in CIC-branded black hoodies with lanyards, one gesturing expressively mid-point. The composition accidentally captures the energy of the caption perfectly: someone is absolutely in the middle of challenging something.
+Three men in conversation two in CIC-branded black hoodies with lanyards, one gesturing expressively mid-point (Aissou). The composition accidentally captures the energy of the caption perfectly: someone is absolutely in the middle of challenging something.
 
 **Analysis:** "Love him or argue with him… you can't ignore him" is one of the most accurate character descriptions ever written in a tweet. At 4 views, this is the most-watched post on the account. Aissou's chaotic energy is, statistically, the most compelling content here.
 
@@ -90,7 +85,7 @@ Three men in conversation — two in CIC-branded black hoodies with lanyards, on
 | The Larries | 3 |
 | Aissou shoutout | 4 |
 
-An account posting for a total audience that could fit in a single elevator — and yet posting with the urgency and sincerity of a viral thread. There is no performance here. No optimisation for reach. The posts go out because they need to go out. This is perhaps the purest form of social media that exists.
+An account posting for a total audience that could fit in a single elevator and yet posting with the urgency and sincerity of a viral thread. There is no performance here. No optimisation for reach. The posts go out because they need to go out. This is perhaps the purest form of social media that exists.
 
 ---
 
@@ -106,7 +101,7 @@ The photos make it worse (better). Anyone else would have kept the shoutouts abs
 
 ## The Luffy Connection
 
-The username — *luffy_cic* — is not accidental. Monkey D. Luffy, the protagonist of *One Piece*, is defined by exactly one character trait above all others: he cannot hide what he feels, and he doesn't try. He charges forward, heart first, consequence second. He names his crew, praises his friends loudly, and would absolutely post a T9 message by mistake and then laugh about it.
+The username *luffy_cic* — is not accidental. Monkey D. Luffy, the protagonist of *One Piece*, is defined by exactly one character trait above all others: he cannot hide what he feels, and he doesn't try. He charges forward, heart first, consequence second. He names his crew, praises his friends loudly, and would absolutely post a T9 message by mistake and then laugh about it.
 
 The profile picture confirms it. It's Luffy. Of course it is.
 
@@ -124,4 +119,3 @@ Zoro is, apparently, going to kill them for it. We look forward to the post abou
 
 ---
 
-*Written based on public posts and screenshots from @luffy_cic on X (Twitter) · April 2026 · CIC, Oran*
