@@ -22,7 +22,7 @@ Meet **luffy (@luffy_cic)**. A brand new account — joined April 2026 — with 
 
 The account's most revealing post — and arguably its thesis statement came within the first hour of existence (dar karitha ):
 
-![The T9 confession](images/2026-04-23210223.png)
+![The T9 confession](images/2026-04-2321022.png)
 
 
 ---
